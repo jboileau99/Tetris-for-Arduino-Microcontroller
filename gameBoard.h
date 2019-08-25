@@ -1,10 +1,13 @@
 /*------------------------------------------------
 #   Name: Justin Boileau, Ryan Kortbeek
-#   ID: 1535268, 1535901
-#   CMPUT 275, Winter 2019
+#
 #
 #   Tetris: gameBoard.h
 #
+#   Contains the data structures used to represent the virtual gameboard,
+#   squares, and pieces, as well as the various movement and rotation methods.
+#   Also has functions for analyzing the current boardstate to tell the
+#   functions in piecegen.
 #-----------------------------------------------*/
 #ifndef __GAME_BOARD_H
 #define __GAME_BOARD_H

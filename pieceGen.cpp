@@ -1,10 +1,8 @@
 /*------------------------------------------------
 #   Name: Justin Boileau, Ryan Kortbeek
-#   ID: 1535268, 1535901
-#   CMPUT 275, Winter 2019
 #
 #   Tetris: pieceGen.cpp
-#
+# 
 #-----------------------------------------------*/
 
 #include "pieceGen.h"

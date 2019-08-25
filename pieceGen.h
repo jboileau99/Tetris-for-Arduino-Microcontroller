@@ -1,10 +1,10 @@
 /*------------------------------------------------
 #   Name: Justin Boileau, Ryan Kortbeek
-#   ID: 1535268, 1535901
-#   CMPUT 275, Winter 2019
 #
 #   Tetris: pieceGen.h
 #
+#   Implementation of 3 peice generation algorithms for easy, medium, and
+#   hard difficulties.
 #-----------------------------------------------*/
 
 #ifndef __PIECE_GEN_H
