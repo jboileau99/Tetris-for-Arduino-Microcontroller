@@ -24,13 +24,19 @@ are being viewed with their labels showing rightside up. All pins not
 listed are not used.
 
 Display Pin     Arduino Mega Pin
+
 1 GND           BB GND bus
+
 2 Vin           BB Vcc (+ive) bus
 
 4 CLK           Pin 52
+
 5 MISO          Pin 50
+
 6 MOSI          Pin 51
+
 7 CS            Pin 10
+
 8 D/C           Pin 9
 
 19 CCS          Pin 6
