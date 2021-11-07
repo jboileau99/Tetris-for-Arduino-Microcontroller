@@ -15,34 +15,34 @@
   * Makefile
 
 ## Wiring Instructions:
-  * Connect wires as follows:
+* Connect wires as follows:
 
-  TFT Display:
+### TFT Display:
 
-      The display pins are numbered left to right in this document when they
-      are being viewed with their labels showing rightside up. All pins not
-      listed are not used.
+The display pins are numbered left to right in this document when they
+are being viewed with their labels showing rightside up. All pins not
+listed are not used.
 
-      Display Pin     Arduino Mega Pin
-      1 GND           BB GND bus
-      2 Vin           BB Vcc (+ive) bus
+Display Pin     Arduino Mega Pin
+1 GND           BB GND bus
+2 Vin           BB Vcc (+ive) bus
 
-      4 CLK           Pin 52
-      5 MISO          Pin 50
-      6 MOSI          Pin 51
-      7 CS            Pin 10
-      8 D/C           Pin 9
+4 CLK           Pin 52
+5 MISO          Pin 50
+6 MOSI          Pin 51
+7 CS            Pin 10
+8 D/C           Pin 9
 
-      19 CCS          Pin 6
+19 CCS          Pin 6
 
-  Joystick connections:
+### Joystick connections:
 
-      Joystick Pin    Arduino Mega Pin
-      +5v             Vcc
-      GND             GND
-      VRx             Analog 1
-      VRy             Analog 0
-      SW              Pin 8
+Joystick Pin    Arduino Mega Pin
++5v             Vcc
+GND             GND
+VRx             Analog 1
+VRy             Analog 0
+SW              Pin 8
 
 ## Running Instructions:
   1) Navigate to the directory containing all the included files
