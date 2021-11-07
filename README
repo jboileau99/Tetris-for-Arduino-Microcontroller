@@ -1,9 +1,9 @@
 
-Tetris: README
+# Tetris for Arduino
 
- - Written by Justin Boileau and Ryan Kortbeak
+- Written by Justin Boileau and Ryan Kortbeak
 
-Included Files:
+## Included Files:
   * README
   * gameBoard.h
   * gameBoard.cpp
@@ -14,7 +14,7 @@ Included Files:
   * play.cpp
   * Makefile
 
-Wiring Instructions:
+## Wiring Instructions:
   * Connect wires as follows:
 
   TFT Display:
@@ -44,7 +44,7 @@ Wiring Instructions:
       VRy             Analog 0
       SW              Pin 8
 
-Running Instructions:
+## Running Instructions:
   1) Navigate to the directory containing all the included files
   2) Enter the command "make upload" to compile the code and upload it to
   the arduino
@@ -79,7 +79,7 @@ Running Instructions:
   game over screen will be displayed for a few seconds and then you will be
   returned to the home screen
 
-Notes and Assumptions:
+## Notes and Assumptions:
   * For a detailed walkthrough with regards to how rotating a piece is carried
   out, start at the function header for processRotation in gameBoard.cpp and
   navigate to the functions called inside processRotation and so on...
